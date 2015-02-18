@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/venkatgonuguntala/Documents/facebook-android-sdk-master/Hibrangram-master/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/18.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dafab6ae358e6c801605d50ff1fa761e77200c1a">
+        <dex dex="/Users/venkatgonuguntala/Documents/facebook-android-sdk-master/Hibrangram-master/app/build/intermediates/pre-dexed/debug/classes-d99415da112eb68b77542bdcf6df21758ae10dca.jar" />
+    </item>
+    <item
+        jar="/Users/venkatgonuguntala/Downloads/facebook-android-sdk-master/Hibrangram-master/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/18.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dafab6ae358e6c801605d50ff1fa761e77200c1a">
+        <dex dex="/Users/venkatgonuguntala/Downloads/facebook-android-sdk-master/Hibrangram-master/app/build/intermediates/pre-dexed/debug/classes-14b736482a2cc069217cbe6dc6b7d9f5f21c9ce3.jar" />
+    </item>
+    <item
+        jar="/Users/venkatgonuguntala/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/venkatgonuguntala/Downloads/facebook-android-sdk-master/Hibrangram-master/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-76cdc77dd10e843adb953192642cedb898910950.jar" />
+    </item>
+
+</items>

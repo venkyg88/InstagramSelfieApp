@@ -1,0 +1,3 @@
+/Users/venkatgonuguntala/Documents/facebook-android-sdk-master/Hibrangram-master/app/build/intermediates/classes/debug
+/Users/venkatgonuguntala/Documents/facebook-android-sdk-master/Hibrangram-master/app/build/intermediates/pre-dexed/debug/classes-d99415da112eb68b77542bdcf6df21758ae10dca.jar
+/Users/venkatgonuguntala/Documents/facebook-android-sdk-master/Hibrangram-master/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-76cdc77dd10e843adb953192642cedb898910950.jar
